@@ -1,13 +1,15 @@
 # Daniel Nakhooda
+## Computer Science Major
 ## dnakhooda@gmail.com
 ## https://www.danielwebsite.com/
 
 ## Education: 
 Northeastern University (Expected Graduation: 2028)
+
 Skyline High School (Graduated 2024)
 
 ## Club(s):
-###Northeastern Electric Racing
+### Northeastern Electric Racing
 Work with C and C++ in the Embedded Systems Team
 
 ## Skills & Abilities:
