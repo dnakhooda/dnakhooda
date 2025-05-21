@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning: **Rust**
 
-- 🎓 I'm currently studing: **Computer Science**
+- 🎓 I'm studing **Computer Science** at University
 
 - 📫 How to reach me: **dnakhooda@gmail.com**
