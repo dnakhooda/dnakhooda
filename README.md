@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning: **Rust**
 
-- 📫 How to reach me: dnakhooda@gmail.com
+- 📫 How to reach me: **dnakhooda@gmail.com**
