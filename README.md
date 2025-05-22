@@ -8,4 +8,4 @@
 
 - 📫 How to reach me: **dnakhooda@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnakhooda)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact)
