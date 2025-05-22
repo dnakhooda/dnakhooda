@@ -8,6 +8,6 @@
 
 - 📫 How to reach me: **dnakhooda@gmail.com**
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=dark" alt="Top Langs" />
+</p>
