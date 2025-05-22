@@ -10,9 +10,10 @@
 
 <h3>Statistics:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" />
-</div>
+</p>
+
 
 
