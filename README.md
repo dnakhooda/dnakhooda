@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **dnakhooda@gmail.com**
 
-<h2 align="center>Statistics: </h2>
+<h2 align="center">Statistics: </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub stats" />
