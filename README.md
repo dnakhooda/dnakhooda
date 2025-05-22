@@ -12,7 +12,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" />
 </div>
 
 
