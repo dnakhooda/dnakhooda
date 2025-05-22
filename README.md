@@ -11,3 +11,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=dark" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+</p>
+
