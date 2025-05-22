@@ -8,9 +8,9 @@
 
 - 📫 How to reach me: **dnakhooda@gmail.com**
 
-<h2 align="center">Statistics:</h2>
+<h3>Statistics:</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" />
 </div>
