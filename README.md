@@ -8,11 +8,10 @@
 
 - 📫 How to reach me: **dnakhooda@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+<h2 align="center>Statistics: </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
