@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: **[my website](https://danielnakhooda.com/)**
 
-- 🌱 I’m currently learning: **Rust**
+- 🌱 I’m currently learning: **C#**
 
 - 🎓 I'm studing **Computer Science** at University
 
