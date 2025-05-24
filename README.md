@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning: **C#**
 
-- 🎓 I'm studing **Computer Science** at University
-
 - 📫 How to reach me: **dnakhooda@gmail.com**
 
 <h3>Languages and Tools:</h3>
