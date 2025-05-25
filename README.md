@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Daniel Nakhooda</h1>
 
+<h2>🚀 About Me</h2>
+
 - 🔭 I’m currently working on: **[my website](https://danielnakhooda.com/)**
 
 - 🌱 I’m currently learning: **C#**
