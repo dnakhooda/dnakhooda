@@ -10,7 +10,7 @@
 
 <h3>Languages and Tools:</h3>
 
-<p>
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -48,7 +48,7 @@
 
 <h3>📊 Github Stats</h3>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
