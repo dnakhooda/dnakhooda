@@ -49,8 +49,8 @@
 <h2>📊 Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=tokyonight" alt="Top Langs" width="34%" />
 </p>
 
 <h2>📫 Contact With Me</h2>
