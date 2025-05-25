@@ -2,9 +2,9 @@
 
 <h2>🚀 About Me</h2>
 
-- 🔭 I’m currently working on: **[my website](https://danielnakhooda.com/)**
+- 🔭 I’m currently working on **[my website](https://danielnakhooda.com/)**
 
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning **C#**
 
 - 🛠️ Interested in **Software**, **Game Dev**, **AI**, and more
 
