@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=tokyonight" alt="Top Langs" width="34%" />
 </p>
 
-<h2>📫 Contact With Me</h2>
+<h2>📫 Contact Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielnakhooda/">
