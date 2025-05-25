@@ -8,7 +8,7 @@
 
 - 🛠️ Interested in **Software**, **Game Dev**, **AI**, and more
 
-<h3>Languages and Tools:</h3>
+<h2>Languages and Tools:</h2>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/JavaScript">
@@ -46,11 +46,18 @@
   </a>
 </p>
 
-<h3>📊 Github Stats</h3>
+<h2>📊 Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=transparent" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=transparent" alt="Top Langs" width="34%" />
+</p>
+
+<h2>📫 Contact With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielnakhooda/">LinkedIn</a>
+  <a href="mailto:dnakhooda@gmail.com">Gmail</a>
 </p>
 
 
