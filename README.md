@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **C#**
 
-- 📫 How to reach me: **dnakhooda@gmail.com**
+- 🛠️ Interested in **Software**, **Game Dev**, **AI**, and more
 
 <h3>Languages and Tools:</h3>
 
