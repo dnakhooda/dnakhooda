@@ -60,5 +60,6 @@
   <a href="mailto:dnakhooda@gmail.com">Gmail</a>
 </p>
 
+---
 
-
+<p align="center"><strong>🌟Thanks for visiting my profile!</strong></p>
