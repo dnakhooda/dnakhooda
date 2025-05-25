@@ -8,7 +8,7 @@
 
 - 🛠️ Interested in **Software**, **Game Dev**, **AI**, and more
 
-<h2>Languages and Tools:</h2>
+<h2>🛠️ Languages and Tools</h2>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/JavaScript">
