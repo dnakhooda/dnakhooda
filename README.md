@@ -34,10 +34,12 @@
 <h2>📫 Contact Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/danielnakhooda/">
-    <img src="https://img.shields.io/badge/linkedin-Daniel%20Nakhooda-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dnakhooda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dnakhooda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <h4>
+    <a href="https://www.linkedin.com/in/danielnakhooda/">
+      <img src="https://img.shields.io/badge/linkedin-Daniel%20Nakhooda-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dnakhooda@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-dnakhooda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </h4>
 </div>
