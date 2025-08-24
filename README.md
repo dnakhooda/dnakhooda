@@ -1,14 +1,14 @@
 <h1 align="center">Hey 👋, I'm Daniel Nakhooda</h1>
 
-<h2>🚀 About Me</h2>
+<h2>🚀 About Me 🚀</h2>
 
-- 🔭 I’m currently working on **[my website](https://danielnakhooda.com/)**
+- I’m currently working on **[my website](https://danielnakhooda.com/)**
 
-- 🌱 I’m currently learning **C#**
+- I’m currently learning **C#**
 
-- 🛠️ Interested in **Software**, **Game Dev**, **AI**, and more
+- 🛠Interested in **Software**, **Game Dev**, **AI**, and more
 
-<h2>🛠️ Languages and Tools</h2>
+<h2>🛠️ Languages and Tools 🛠️</h2>
 
 <div align="center">
   <h4>
@@ -48,14 +48,14 @@
   </h4>
 </div>
 
-<h2>📊 Github Stats</h2>
+<h2>📊 Github Stats 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=tokyonight" alt="Top Langs" width="34%" />
 </p>
 
-<h2>📫 Contact Me</h2>
+<h2>📫 Contact Me 📫</h2>
 
 <div align="center">
   <h4>
