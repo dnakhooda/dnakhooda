@@ -1,4 +1,4 @@
-### Hey 👋, I'm Daniel Nakhooda
+# Hey 👋, I'm Daniel Nakhooda
 
 Hey, I'm Daniel Nakhooda, a Computer Science student at Northeastern University who enjoys exploring technology and programming! I am interested in software development, embedded programming, machine learning / AI, game development, and more.
 
