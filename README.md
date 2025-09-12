@@ -52,15 +52,6 @@ Hey, I'm Daniel Nakhooda, a Computer Science student at Northeastern University 
 
 ---
 
-### 📊 Github Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnakhooda&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnakhooda&layout=compact&theme=tokyonight" alt="Top Langs" width="34%" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 <h4>
