@@ -48,7 +48,7 @@ I'm a Computer Science student at Northeastern University who enjoys exploring t
 
 - I’m currently working on **[My Website](https://danielnakhooda.com/)**
 - I’m currently learning **C#**
-- In the future, I am interested in learning **Rust**
+- In the future, I want to learn **Rust**
 
 ---
 
