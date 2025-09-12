@@ -1,6 +1,14 @@
-# Hey 👋, I'm Daniel Nakhooda
+### Hey 👋, I'm Daniel Nakhooda
 
-I'm a Computer Science student at Northeastern University who enjoys exploring technology and programming! I am interested in software development, embedded programming, machine learning / AI, game development, and more.
+I'm a **Computer Science student** at **Northeastern University** who enjoys exploring technology and programming. I am interested in software development, embedded programming, machine learning / AI, game development, and more.
+
+---
+
+### 🚀 About Me
+
+- I’m currently working on <b><a href="https://danielnakhooda.com/">My Website</a></b>
+- I’m currently learning **C#**
+- In the future, I want to learn **Rust**
 
 ---
 
@@ -44,11 +52,11 @@ I'm a Computer Science student at Northeastern University who enjoys exploring t
 
 ---
 
-### 🚀 About Me
+### 📂 Projects
 
-- I’m currently working on **[My Website](https://danielnakhooda.com/)**
-- I’m currently learning **C#**
-- In the future, I want to learn **Rust**
+- **Neutron**: An easy-to-use Typescript & WebGL based game engine and framework
+- **Simple Interpreter**: An interpreter for my custom programming language, which I named "Simple"
+- **Fees App**: An Android app to help calculate expenses, find ways to save money, and plan for the future
 
 ---
 
