@@ -52,13 +52,6 @@ I'm a **Computer Science student** at **Northeastern University** who enjoys exp
 
 ---
 
-### 📂 Projects
-
-- **Neutron**: An easy-to-use Typescript & WebGL based game engine and framework
-- **Simple Interpreter**: An interpreter for my custom programming language, which I named "Simple"
-
----
-
 ### 📫 Contact Me
 
 <h4>
