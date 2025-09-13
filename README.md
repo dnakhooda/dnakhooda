@@ -45,9 +45,9 @@ I'm a **Computer Science student** at **Northeastern University** who enjoys exp
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"
   </a>
-  <a href="https://tailwindcss.com/">
+  <!--<a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind CSS">
-  </a>
+  </a>-->
   <a href="https://developer.android.com/studio?gad_source=1&gad_campaignid=21831783525&gbraid=0AAAAAC-IOZmjMyLtUi-brJuNKwY_hYMsk&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6iIlJDTh5WnDuxxwNR3Yl1t_zimLhvmb7dOtjrJPuoQcgS-l4-RXCgaAmIAEALw_wcB&gclsrc=aw.ds">
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="android studio"/>
   </a>
