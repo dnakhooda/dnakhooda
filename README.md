@@ -33,12 +33,12 @@ I'm a **Computer Science student** at **Northeastern University** who enjoys exp
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> 
-  </a>
+  </a>-->
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
   </a>
